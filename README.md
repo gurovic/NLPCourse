@@ -36,6 +36,10 @@ python prepare.py
 
 cd ..\\..
 
+### 2.2. Исправим название директории
+
+в файле config\train_shakespeare_char.py закомментируйте строчку out_dir = 'out-shakespeare-char'
+
 ### 2.2. Запускаем обучение
 python train.py config\train_shakespeare_char.py
 
