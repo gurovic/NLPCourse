@@ -128,3 +128,5 @@ temperature=0.1, 1.0, 1.5, 5.0
 
 
 https://bbycroft.net/llm
+
+https://www.youtube.com/watch?v=kCc8FmEb1nY
