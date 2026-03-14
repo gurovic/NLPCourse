@@ -29,13 +29,13 @@ set TRITON_DISABLE=1
 ### 2.1. Готовим данные 
 
 Объяснение: почему посимвольная, а не по словам? Простота, маленький словарь.
-'''
+
 cd data\shakespeare_char
 
 python prepare.py
 
 cd ..\\..
-'''
+
 ##№ 2.2. Запускаем обучение
 python train.py config\train_shakespeare_char.py
 
