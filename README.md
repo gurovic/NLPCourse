@@ -36,7 +36,7 @@ python prepare.py
 
 cd ..\\..
 
-##№ 2.2. Запускаем обучение
+### 2.2. Запускаем обучение
 python train.py config\train_shakespeare_char.py
 
 
