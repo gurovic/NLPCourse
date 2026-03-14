@@ -125,3 +125,6 @@ temperature=0.1, 1.0, 1.5, 5.0
 2. Увеличить `n_layer` (до 6-8)
 3. Подобрать `n_head` так, чтобы `d_k ≈ 64`
 4. При генерации играть с `temperature` (0.8-1.2)
+
+
+https://bbycroft.net/llm
